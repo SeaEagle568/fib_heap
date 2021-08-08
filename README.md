@@ -2,7 +2,7 @@
 Golang fibonacci heap + Dijkstra SSSP algorithm implementation
 
 ## Summary
-Here is the implmentation for [Fibonacci Heap](https://en.wikipedia.org/wiki/Fibonacci_heap) on Go.
+Here is the implmentation for [Fibonacci Heap](https://en.wikipedia.org/wiki/Fibonacci_heap) and Dijkstra based on it (with time complexity of `O(E + V log V)`  on Go.
 
 Also there is Dijkstra implementation on [Red-Black Tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree), but the red-black tree set isn't mine
 
